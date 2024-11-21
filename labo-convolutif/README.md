@@ -11,7 +11,7 @@ Reconnaissance de texte : https://colab.research.google.com/github/keras-team/ke
 ReCapp de CDRIN  
 Votre choix de CNN approuvé par le professeur  
 
-Votre colab public : 
+Votre colab public : https://colab.research.google.com/drive/1Qs4qSzaslZ5Isv37BflhEK6Qe1WsdwW8#scrollTo=tT9qRwU8U5hc
 
 **Dessin de blocs**
 
@@ -27,3 +27,4 @@ Le dessin doit clarifier et illustrer :
   -  La couche de pooling (et laquelle)  
 - La couche de sortie (classes de sortie)  
 
+![1732162926897](https://github.com/user-attachments/assets/e0cb74a1-1743-4818-89f7-86952af3104a)
