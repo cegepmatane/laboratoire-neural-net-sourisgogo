@@ -28,3 +28,7 @@ Le dessin doit clarifier et illustrer :
 - La couche de sortie (classes de sortie)  
 
 ![1732162926897](https://github.com/user-attachments/assets/e0cb74a1-1743-4818-89f7-86952af3104a)
+
+
+
+![screencapture-colab-research-google-drive-1Qs4qSzaslZ5Isv37BflhEK6Qe1WsdwW8-2024-11-21-09_47_15](https://github.com/user-attachments/assets/4077730e-18cf-412d-87ca-a0e671f4aea8)
